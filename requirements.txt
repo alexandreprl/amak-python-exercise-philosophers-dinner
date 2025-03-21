@@ -1,5 +1,4 @@
 amak @ git+https://github.com/alexandreprl/AMAK-Python.git@0137ec45bc5177903c9ccbdcff87c6b224407224
 pygame==2.6.1
 
-amak~=0.4.1
-matplotlib~=3.10.1
+matplotlib~=3.9.4

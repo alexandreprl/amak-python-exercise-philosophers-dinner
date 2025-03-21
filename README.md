@@ -45,6 +45,9 @@
 ## About The Exercise
 
 The goal is to solve the Philosopher's Dinner problem.
+
+More infos https://en.wikipedia.org/wiki/Dining_philosophers_problem
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->

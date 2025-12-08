@@ -58,7 +58,9 @@ More infos https://en.wikipedia.org/wiki/Dining_philosophers_problem
 * Fork the project
 * Clone the forked version
 * Create a virtual environment `python -m venv .venv` (Optional)
-* Activate the virtual environment `source .venv/bin/activate` (Optional)
+* Activate the virtual environment: (Optional)
+  * macOS/Linux: `source .venv/bin/activate`
+  * Windows: `.venv\Scripts\activate`
 * Install dependencies `pip install -r requirements.txt`
 * Run the simulation `python simulation.py`
 
